@@ -14,7 +14,7 @@
 var myVar = "Hello, world!";
 ```
 
-#Step 4: Make a taske list
+# Step 4: Make a task list
 
 - [x] Go to sleep
 - [ ] Stay asleep
