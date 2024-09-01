@@ -13,3 +13,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+#Step 4: Make a taske list
+
+- [x] Go to sleep
+- [ ] Stay asleep
+- [ ] Wake up
